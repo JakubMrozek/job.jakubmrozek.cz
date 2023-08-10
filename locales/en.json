@@ -1,0 +1,8 @@
+{
+  "form.question.label": "What is your question?",
+  "form.question.help": "For example, \"We are a young, dynamically growing company from Mongolia. Are you open to relocating to Ulaanbaatar?\"",
+  "form.button.label": "Ask me!",
+  "form.answer.label": "My answer",
+  "form.answer.note": "Please keep in mind: OpenAI has its moments of creativity, so it's best to approach the answers with some caution in mind :)",
+  "error": "There was an error processing your request. Please try again later."
+}

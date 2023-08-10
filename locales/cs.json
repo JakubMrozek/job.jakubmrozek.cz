@@ -1,0 +1,8 @@
+{
+  "form.question.label": "Jaký na mě máte dotaz?",
+  "form.question.help": "Např. „Jsme mladá, dynamicky se rozvíjející společnost z Mongolska, nevadí ti přestěhování do Ulánbátaru?“",
+  "form.button.label": "Zeptat se!",
+  "form.answer.label": "Moje odpověď",
+  "form.answer.note": "Poznámka: OpenAI si občas trochu vymýšlí, odpovědi berte s rezervou :)",
+  "error": "Och, něco se pokazilo. Zkuste to prosím znovu."
+}
