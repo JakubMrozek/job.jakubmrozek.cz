@@ -33,6 +33,7 @@ export default function Form () {
   return (
     <form
       onSubmit={handleSubmit}
+      id='chatbot'
     >
     <Stack
       bg='gray.100'
