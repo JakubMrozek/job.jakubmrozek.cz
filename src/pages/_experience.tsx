@@ -3,9 +3,9 @@ import Image from 'next/image'
 import LinkExternal from '../components/link-external'
 
 interface Props {
-  company: string
+  company?: string
+  link?: string
   logo: string
-  link: string
   position: string
   from: number
   to: number
@@ -35,11 +35,11 @@ export default function Experience ({ logo, link, company, position, from, to, c
           as='h4'
           size='sm'
         >
-          <LinkExternal
+          {link && <LinkExternal
             href={link}
           >
             {company}
-          </LinkExternal>
+          </LinkExternal>}
           {' '}
           <chakra.span
             color='gray.500'
